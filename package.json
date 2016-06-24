@@ -9,6 +9,7 @@
     "ejs": "^2.4.1",
     "express": "4.13.4",
     "qs": "*",
+    "serve-favicon": "^2.3.0",
     "twit": "2.2.4"
   },
   "engines": {

@@ -3,6 +3,10 @@ var path = require('path');
 var index = require('./routes/index');
 var tweets = require('./routes/tweets');
 var app = express();
+var favicon = require('serve-favicon');
+
+// favicon
+app.use(favicon(__dirname + '/public/images/favicon.ico'));
 
 // serve static assets from the public directory
 app.use(express.static(path.join(__dirname, 'public')));
