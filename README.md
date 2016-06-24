@@ -10,5 +10,5 @@
 5. Type in the twitter handle you want to search and hit enter
 6. Scroll to the bottom of the page to **get more tweets** or hit the **Top** button to go back to the top of the page
 
-![screenshot](./screenshot.png "Screenshot of ng-twitter App")
+![screenshot](./screenshot.png "Screenshot of ng-twitter App")<br>
 Published on June 23, 2016.
